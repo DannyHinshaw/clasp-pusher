@@ -1,6 +1,6 @@
 # Clasp Pusher
 
-Simple too for pushing new production releases to the Google Docs "production document".
+Simple tool for pushing new production releases to the Google Docs "production document".
 
 ## Setup
 
