@@ -1,0 +1,12 @@
+{
+  "name": "clasp-pusher",
+  "version": "1.0.0",
+  "description": "To assist with pushing new google docs builds to the release document.",
+  "main": "index.js",
+  "author": "Danny Hinshaw",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "clasp:push": "npx clasp push"
+  }
+}
