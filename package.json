@@ -7,6 +7,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
+    "clasp:login": "npx clasp login",
     "clasp:push": "npx clasp push"
   }
 }
