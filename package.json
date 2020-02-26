@@ -9,5 +9,8 @@
   "scripts": {
     "clasp:login": "npx clasp login",
     "clasp:push": "npx clasp push"
+  },
+  "dependencies": {
+    "@google/clasp": "^2.3.0"
   }
 }
