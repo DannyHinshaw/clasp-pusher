@@ -1,4 +1,4 @@
 {
-  "rootDir": "dist",
+  "rootDir": ".\\dist\\",
   "scriptId": "<GDOCS_SCRIPT_ID_GOES_HERE>"
 }
